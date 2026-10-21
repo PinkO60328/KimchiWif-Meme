@@ -1,7 +1,7 @@
 // ===== Edit this =====
 // Solana token mint. Leave '' to show "CA coming soon" with Buy/Jupiter/Chart/GMGN disabled.
-const CA = '8uWftzVoVBqyPJj6Xq9kRUtnz54W5GP4pd4smwZHpump';
-const X_URL = 'https://x.com/KimchiWifHat';
+const CA = 'CommingSoon';
+const X_URL = 'https://x.com/KimchiWifHatSOL';
 // =====================
 
 const LINKS = {
